@@ -6,7 +6,6 @@ services:
     image: docker.elastic.co/elasticsearch/elasticsearch:7.12.0
     ports:
       - 9200:9200
-      - 9300:9300
     environment:
       - xpack.security.enabled=true
       - bootstrap.memory_lock=false
