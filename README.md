@@ -1,6 +1,6 @@
 # Elastic SIEM
 
-Elastic-SIEM is a docker setup template to experiment with Elastic Security features such as SIEM and Elastic Endpoint Security.  
+Elastic-SIEM is a docker compose template to experiment with Elastic Security features such as SIEM and Elastic Endpoint Security.  
 [Overview](https://www.elastic.co/security)  
 
 ## Docker compose
